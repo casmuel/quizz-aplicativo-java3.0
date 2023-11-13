@@ -3,62 +3,59 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
-Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+question: "quem nao gostava de Judeu?",
+answer: "Adolf Hitler",
 options: [
 "Albert Einstein",
-"Marie Curiee",
+"Adolf Hitler",
 "Stephen Hawking",
 "Linus Pauling"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual o país mais grande do mundo?",
+answer: "China",
 options: [
 "Timor Lestet",
-"Montenegro",
+"China",
 "Sudão do Sul",
 "Kosovo"
 ]
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "em qual estaçao que a terra fic mais longe do sol?",
+answer: "inverno",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"outono",
+"inverno",
+"verão",
+"outono"
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
+question: "Quantos ossos um ser humano, normalmente tem,
 possui?",
-answer: "12",
+answer: "206",
 options: [
-"12",
-"11",
-"14",
-"13"
+"306",
+"206",
+"1400",
+"167"
 ]
 
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
-rotação em sentido horário?",
-answer: "Vênus e Urano",
+question: "Qual eo satelite natural da Terra?",
+answer: "lua",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"lua",
+"europa",
+"sol",
+"mercurio"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
